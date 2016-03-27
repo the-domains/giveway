@@ -1,0 +1,28 @@
+name: Giveway
+favicon: null
+layout_spectrum: 0.08105454803444445
+typography_spectrum: 0.4119139083195478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7778291394934058
+  lightness: 0.1497338581830263
+  saturation: 0.6518640262074769
+  rhythmicContrast: 0.9952934531029314
+purpose: []
