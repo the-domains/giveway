@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://stacksocial.com/giveaways/the-lenovo-turtle-beach-headset-giveaway'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-27T06:36:48.126Z'
-dateModified: '2016-03-27T06:36:15.282Z'
+datePublished: '2016-04-08T08:45:42.416Z'
+dateModified: '2016-04-08T08:45:37.249Z'
 author: []
 title: 'The Lenovo & Turtle Beach Headset Gamer Giveaway'
 sourcePath: _posts/2016-03-27-the-lenovo-and-turtle-beach-headset-gamer-giveaway.md
@@ -19,6 +18,7 @@ publisher:
   domain: stacksocial.com
   url: null
   favicon: null
+url: the-lenovo-and-turtle-beach-headset-gamer-giveaway/index.html
 _context: 'http://schema.org'
 _type: Article
 
